@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name" translatable="false">30 Days Of Recipes</string>
+
+    <string name="day" translatable="false">Day</string>
+
+    <string name="rec_1" translatable="false">Scrambled Eggs with Avocado Toast</string>
+    <string name="des_1" translatable="false">Creamy scrambled eggs on toasted bread topped with smashed avocado, lime juice, and cilantro.</string>
+    <string name="time_1" translatable="false">5 minutes</string>
+
+    <string name="rec_2" translatable="false">Greek Yogurt with Granola and Berries</string>
+    <string name="des_2" translatable="false">Layers of Greek yogurt, granola, fresh berries, and a drizzle of honey.</string>
+    <string name="time_2" translatable="false">5 minutes</string>
+
+    <string name="rec_3" translatable="false">Breakfast Smoothie</string>
+    <string name="des_3" translatable="false">Blend yogurt, fruit, milk, and spinach for a nutritious and refreshing start</string>
+    <string name="time_3" translatable="false">5 minutes</string>
+
+    <string name="rec_4" translatable="false">Banana Pancakes</string>
+    <string name="des_4" translatable="false">Whip up fluffy pancakes with mashed banana, milk, and egg. Top with maple syrup and nuts.</string>
+    <string name="time_4" translatable="false">10 minutes</string>
+
+    <string name="rec_5" translatable="false">Breakfast Burrito</string>
+    <string name="des_5" translatable="false">Scramble eggs with salsa and cheese, wrap in a tortilla with avocado and black beans.</string>
+    <string name="time_5" translatable="false">10 minutes</string>
+
+    <string name="rec_6" translatable="false">Tuna Salad Sandwich</string>
+    <string name="des_6" translatable="false">Mix canned tuna with mayo, celery, onion, and spices for a classic sandwich on whole-wheat bread.</string>
+    <string name="time_6" translatable="false">5 minutes</string>
+
+    <string name="rec_7" translatable="false">Chicken Caesar Salad</string>
+    <string name="des_7" translatable="false">Romaine lettuce, grilled chicken, croutons, Parmesan cheese, and Caesar dressing.</string>
+    <string name="time_7" translatable="false">10 minutes</string>
+
+    <string name="rec_8" translatable="false">Lentil Soup</string>
+    <string name="des_8" translatable="false">A hearty and healthy soup with lentils, vegetables, and spices. Serve with crusty bread.</string>
+    <string name="time_8" translatable="false">20 minutes</string>
+
+    <string name="rec_9" translatable="false">Black Bean Burgers</string>
+    <string name="des_9" translatable="false">Vegetarian burgers made with black beans, corn, and spices. Serve on buns with your favorite toppings.</string>
+    <string name="time_9" translatable="false">20 minutes</string>
+
+    <string name="rec_10" translatable="false">Pasta Primavera</string>
+    <string name="des_10" translatable="false">Light pasta dish with fresh vegetables, garlic, olive oil, and herbs.</string>
+    <string name="time_10" translatable="false">20 minutes</string>
+
+    <string name="rec_11" translatable="false">One-Pan Chicken Fajitas</string>
+    <string name="des_11" translatable="false">Sliced chicken, peppers, and onions cooked together in a skillet with fajita seasoning. Serve on tortillas with salsa and guacamole.</string>
+    <string name="time_11" translatable="false">20 minutes</string>
+
+    <string name="rec_12" translatable="false">Salmon with Roasted Vegetables</string>
+    <string name="des_12" translatable="false">Baked salmon with colorful roasted vegetables like broccoli, carrots, and potatoes.</string>
+    <string name="time_12" translatable="false">25 minutes</string>
+
+    <string name="rec_13" translatable="false">Shrimp Scampi</string>
+    <string name="des_13" translatable="false">Sauteed shrimp in a garlicky white wine sauce served over pasta.</string>
+    <string name="time_13" translatable="false">20 minutes</string>
+
+    <string name="rec_14" translatable="false">Lemon Chicken with Roasted Asparagus</string>
+    <string name="des_14" translatable="false">Chicken breasts baked with lemon, herbs, and garlic, served with roasted asparagus.</string>
+    <string name="time_14" translatable="false">25 minutes</string>
+
+    <string name="rec_15" translatable="false">Black Bean and Corn Quesadillas</string>
+    <string name="des_15" translatable="false">Easy and satisfying quesadillas filled with black beans, corn, cheese, and salsa.</string>
+    <string name="time_15" translatable="false">15 minutes</string>
+
+    <string name="rec_16" translatable="false">Hummus with Pita Bread and Vegetables</string>
+    <string name="des_16" translatable="false">Healthy dip made with chickpeas, tahini, and olive oil. Enjoy with pita bread, carrots, and cucumbers.</string>
+    <string name="time_16" translatable="false">5 minutes</string>
+
+    <string name="rec_17" translatable="false">Guacamole with Tortilla Chips</string>
+    <string name="des_17" translatable="false">Fresh avocado mashed with lime juice, cilantro, and salt. Serve with tortilla chips for dipping.</string>
+    <string name="time_17" translatable="false">10 minutes</string>
+
+    <string name="rec_18" translatable="false">Fruit Salad with Honey Yogurt Dressing</string>
+    <string name="des_18" translatable="false">A refreshing mix of seasonal fruits with a simple honey yogurt dressing.</string>
+    <string name="time_18" translatable="false">10 minutes</string>
+
+    <string name="rec_19" translatable="false">Roasted Chickpeas</string>
+    <string name="des_19" translatable="false">Crunchy and flavorful chickpeas roasted with spices. Perfect for snacking or salads.</string>
+    <string name="time_19" translatable="false">20 minutes</string>
+
+    <string name="rec_20" translatable="false">Edamame</string>
+    <string name="des_20" translatable="false">Steamed or boiled soybeans in their pods. Sprinkle with salt for a healthy and satisfying snack.</string>
+    <string name="time_20" translatable="false">15 minutes</string>
+
+    <string name="rec_21" translatable="false">Mug Cake</string>
+    <string name="des_21" translatable="false">Single-serving cake made in a mug with flour, sugar, cocoa powder, milk, and egg. Microwave for a quick and delicious treat.</string>
+    <string name="time_21" translatable="false">5 minutes</string>
+
+    <string name="rec_22" translatable="false">Fruit Crisp</string>
+    <string name="des_22" translatable="false">Top sliced apples, pears, or berries with a crumble topping and bake until golden. Serve with vanilla ice cream.</string>
+    <string name="time_22" translatable="false">20 minutes</string>
+
+    <string name="rec_23" translatable="false">Chocolate Avocado Mousse</string>
+    <string name="des_23" translatable="false">Rich and creamy mousse made with avocado, cocoa powder, honey, and milk.</string>
+    <string name="time_23" translatable="false">10 minutes</string>
+
+    <string name="rec_24" translatable="false">Yogurt Popsicles</string>
+    <string name="des_24" translatable="false">Blend yogurt, fruit, and honey for healthy and refreshing popsicles.</string>
+    <string name="time_24" translatable="false">Freeze for 4 hours</string>
+
+    <string name="rec_25" translatable="false">Baked Apples</string>
+    <string name="des_25" translatable="false">Baked apples filled with oats, nuts, and cinnamon. A warm and comforting dessert.</string>
+    <string name="time_25" translatable="false">25 minutes</string>
+
+    <string name="rec_26" translatable="false">Pizza Bagels</string>
+    <string name="des_26" translatable="false">Top mini bagels with tomato sauce, cheese, and your favorite toppings. Bake until golden and bubbly.</string>
+    <string name="time_26" translatable="false">15 minutes</string>
+
+    <string name="rec_27" translatable="false">Stir-Fry</string>
+    <string name="des_27" translatable="false">A versatile dish with endless possibilities. Choose your protein, vegetables, and sauce for a quick and customizable meal.</string>
+    <string name="time_27" translatable="false">20 minutes</string>
+
+    <string name="rec_28" translatable="false">Soup and Sandwich</string>
+    <string name="des_28" translatable="false">Combine a homemade soup like tomato or lentil with a grilled cheese or tuna salad sandwich for a satisfying and classic lunch.</string>
+    <string name="time_28" translatable="false">5 minutes</string>
+
+    <string name="rec_29" translatable="false">Leftover Makeover</string>
+    <string name="des_29" translatable="false">Get creative with leftovers! Turn leftover chicken into a stir-fry, pasta salad, or tacos. Leftover vegetables can be roasted, added to soups, or used in frittatas.</string>
+    <string name="time_29" translatable="false">5 minutes</string>
+
+    <string name="rec_30" translatable="false">Sheet Pan Dinners</string>
+    <string name="des_30" translatable="false">Toss together protein, vegetables, and seasonings.</string>
+    <string name="time_30" translatable="false">5 minutes</string>
+
+</resources>
